@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Loyalty Stamps",
+    "slug": "loyalty-stamps",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#FAFAFA",
+    "primaryColor": "#7C3AED",
+    "platforms": ["ios","android","web"],
+    "web": { "bundler": "metro", "output": "single" },
+    "android": { "package": "com.redsitesoftware.loyaltyStamps" },
+    "ios": { "bundleIdentifier": "com.redsitesoftware.loyaltyStamps" }
+  }
+}
